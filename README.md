@@ -1,2 +1,2 @@
-eVY1_Shield
+Sample code and library for eVY1 Shield
 ===========
