@@ -7,7 +7,8 @@
 
 ### evocaloid_smf
 スタンダードMIDIファイルをスケッチ中に埋め込んで再生するサンプルスケッチです。
-PROGMEM(AVRマイコン内蔵フラッシュメモリ)にスタンダードMIDIファイルを格納します。
+PROGMEM(AVRマイコン内蔵フラッシュメモリ)にスタンダードMIDIファイルを格納します。  
+([Timer1ライブラリ](http://playground.arduino.cc/Code/Timer1)をインストールしてください。)
 
 ## Processing
 ### eVY1_example.pde
